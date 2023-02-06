@@ -1,1 +1,3 @@
 # kata
+
+Just vim-practice
